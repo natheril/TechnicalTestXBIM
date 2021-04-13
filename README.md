@@ -1,6 +1,6 @@
 # TechnicalTestXBIM
 
-The structure of the code is straight-forward, and it contains two Controllers:
+The structure of the code is straight-forward:
 
   1). WebApiController - this controls incoming GET requests and responds with the information requested in the for of a JSON output
     a). GET ../webapi/getinstances - this will return information of three types of elements (doors, windows and walls) along with the number of instances within the model
