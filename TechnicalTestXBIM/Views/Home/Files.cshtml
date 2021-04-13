@@ -1,0 +1,10 @@
+﻿@model TechnicalTestXBIM.Models.FilesViewModel
+
+<p>List of IFC Files</p>
+
+<ul>
+    @foreach (var item in Model.Files)
+    {
+        <li>@item.Name</li>
+    }
+</ul>
