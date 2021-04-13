@@ -1,6 +1,6 @@
 # TechnicalTestXBIM
 
-All that needs to be done is open the solution in Visual Studio, and run it. Send requests to the localhost to get information via the web api (e.g. GET ../webapi/getinstances)
+All that needs to be done is open the solution in Visual Studio, and run it. Send requests to the 'localhost' to get information via the web api (e.g. GET localhost/webapi/getinstances)
 
 The structure of the code is straight-forward:
 
