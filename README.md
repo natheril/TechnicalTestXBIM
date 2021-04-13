@@ -1,5 +1,7 @@
 # TechnicalTestXBIM
 
+All that needs to be done is open the solution in Visual Studio, and run it. Send requests to the localhost to get information via the web api (e.g. GET ../webapi/getinstances)
+
 The structure of the code is straight-forward:
 
   1). WebApiController - this controls incoming GET requests and responds with the information requested in the for of a JSON output
